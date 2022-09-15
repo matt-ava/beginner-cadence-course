@@ -1,5 +1,5 @@
 # beginner-cadence-course
-https://github.com/emerald-dao/beginner-cadence-course
+Course link: https://github.com/emerald-dao/beginner-cadence-course
 
 ## Quest submission
 
