@@ -21,7 +21,7 @@ Script is used to view data stored on the Blockchain, no fees have to be paid.
 **1) What are the 5 Cadence Programming Language Pillars?**
 
 * Safety and Security: strong type system.
-* Clarity: Code should easy to read.
+* Clarity: code easy to read.
 * Approachability: similar to other programming languages.
 * Developer Experience: easy debug.
 * Resource Oriented Programming: uses resources.
