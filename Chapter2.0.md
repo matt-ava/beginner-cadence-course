@@ -7,3 +7,7 @@
 ![Screenshot](images/chap2-day1-q1.PNG)
 <br/><br/>
 **2) Check that your variable is actually equals "the best" by executing a script to read that variable. Include a screenshot of the output.**
+<br/><br/>
+![Screenshot](images/chap2-day1-q2.PNG)
+<br/><br/>
+
