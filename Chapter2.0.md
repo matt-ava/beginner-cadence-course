@@ -40,3 +40,23 @@ Execute phase: change the data on the blockchain.
 ![Screenshot](images/chap2-day2-q4.3.PNG)
 ![Screenshot](images/chap2-day2-q4.3-2.PNG)
 <br/><br/>
+
+## Day 3
+
+**1) In a script, initialize an array (that has length == 3) of your favourite people, represented as Strings, and log it.**        
+<br/><br/>
+![Screenshot](images/chap2-day3-q1.PNG)
+<br/><br/>
+
+**2) In a script, initialize an array (that has length == 3) of your favourite people, represented as Strings, and log it.**        
+<br/><br/>
+![Screenshot](images/chap2-day3-q2.PNG)
+<br/><br/>
+
+**3) Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).**
+
+**4) Using this picture below, explain...**        
+**What the error message means**            
+**Why we're getting this error**         
+**How to fix it**          
+
