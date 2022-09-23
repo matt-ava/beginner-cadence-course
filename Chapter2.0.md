@@ -17,11 +17,12 @@
 Because a script cannot alter data stored on the Blockchain.
 
 **2) What does the AuthAccount mean in the prepare phase of the transaction?**      
-AuthAccount is used to access data in the user account.
+AuthAccount is used to access data in the user account.       
+Whenever a transaction is signed, the AuthAccount type is used to access signer's account information.
 
 **3) What is the difference between the prepare phase and the execute phase in the transaction?**        
 Prepare phase: access the information/data in user account.        
-Execute phase: change the data on the blockchain.
+Execute phase: change the data on the blockchain. Unlike the prepare phase, the execute phase also cannot access user's account data.
 
 **4.1) Add two new things inside your contract:**     
 **A variable named myNumber that has type Int (set it to 0 when the contract is deployed)**         
