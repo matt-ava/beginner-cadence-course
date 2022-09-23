@@ -4,7 +4,7 @@
 
 **1) Explain what the Blockchain is in your own words.**
 
-Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a network.
+Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a network, it's also publicly available for anyone to read or store information, without any central authority.
 
 **2) Explain what a Smart Contract is.**
 
