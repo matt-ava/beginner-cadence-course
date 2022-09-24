@@ -55,9 +55,20 @@ Execute phase: change the data on the blockchain. Unlike the prepare phase, the 
 <br/><br/>
 
 **3) Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).**
+The force-unwrap operator "unwraps" an optional type, returns the value if present or returns error (PANIC) if the value is not present (nil).
+<br/><br/>
+![Screenshot](images/chap2-day3-q3-1.PNG)
+![Screenshot](images/chap2-day3-q3-2.PNG)
+<br/><br/>
 
 **4) Using this picture below, explain...**        
-**What the error message means**            
-**Why we're getting this error**         
-**How to fix it**          
+**What the error message means**      
+The script should returns a String but actually returns a String? (optional).
+
+**Why we're getting this error**      
+The force-unwrap operator is missing / return type of the script is not optional (string?).
+
+**How to fix it**     
+...
+return thing[0x03]!
 
