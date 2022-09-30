@@ -72,3 +72,30 @@ The force-unwrap operator is missing / return type of the script is not optional
 ...
 return thing[0x03]!
 
+## Day 4
+
+**1) Deploy a new contract that has a Struct of your choosing inside of it (must be different than Profile).**       
+<br/><br/>
+![Screenshot](images/chap2-day4-q1.PNG)
+<br/><br/>
+
+**3) Create a dictionary or array that contains the Struct you defined.**      
+<br/><br/>
+![Screenshot](images/chap2-day4-q2.PNG)
+<br/><br/>
+
+**3) Create a function to add to that array/dictionary.**    
+<br/><br/>
+![Screenshot](images/chap2-day4-q3.PNG)
+<br/><br/>
+
+**4) Add a transaction to call that function in step 3.**     
+<br/><br/>
+![Screenshot](images/chap2-day4-q4.PNG)
+<br/><br/>
+
+**5) Add a script to read the Struct you defined.**       
+<br/><br/>
+![Screenshot](images/chap2-day4-q5.PNG)
+<br/><br/>
+
