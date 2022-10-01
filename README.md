@@ -5,4 +5,5 @@ Course link: https://github.com/emerald-dao/beginner-cadence-course
 
 -  [Chapter 1](Chapter1.0.md)
 -  [Chapter 2](Chapter2.0.md)
+-  [Chapter 3](Chapter3.0.md)
 
