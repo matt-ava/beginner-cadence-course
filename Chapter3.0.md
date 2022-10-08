@@ -39,7 +39,7 @@ pub contract Test {
 
 **1) Write your own smart contract that contains two state variables: an array of resources, and a dictionary of resources. Add functions to remove and add to each of them. They must be different from the examples above.**    
 <br/><br/>
-![Screenshot](images/chap3-day2-q1-1.PNG)
+![Screenshot](images/chap3-day2-q1-1.PNG)<br/>
 ![Screenshot](images/chap3-day2-q1-2.PNG)
 <br/><br/>
 
